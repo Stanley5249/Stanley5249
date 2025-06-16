@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Stanley5249&theme=monokai)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Stanley5249&theme=monokai)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Stanley5249&theme=monokai)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Stanley5249&theme=monokai)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Stanley5249&theme=monokai&utcOffset=8)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Stanley5249&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Stanley5249&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Stanley5249&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Stanley5249&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dracula&theme=monokai&utcOffset=8)
