@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Stanley5249&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Stanley5249&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Stanley5249&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Stanley5249&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Stanley5249&theme=dracula&utcOffset=8)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Stanley5249&rank_icon=github&custom_title=My%20GitHub%20Stats&show_icons=true&theme=catppuccin_mocha)](https://github-stats-extended.vercel.app/api?username=Stanley5249&rank_icon=github&custom_title=My%20GitHub%20Stats&show_icons=true&theme=catppuccin_mocha)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Stanley5249&langs_count=4&theme=catppuccin_mocha)](https://github-stats-extended.vercel.app/api/top-langs?username=Stanley5249&langs_count=4&theme=catppuccin_mocha)
